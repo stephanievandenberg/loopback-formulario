@@ -1,0 +1,6 @@
+{
+    "name": "BasedeDatos",
+    "connector": "memory",
+    "localStorage": "",
+    "file": ""
+}
